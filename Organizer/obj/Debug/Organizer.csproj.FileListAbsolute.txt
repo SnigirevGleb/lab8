@@ -1,0 +1,10 @@
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\bin\Debug\Organizer.exe.config
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\bin\Debug\Organizer.exe
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\bin\Debug\Organizer.pdb
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\obj\Debug\Organizer.MainForm.resources
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\obj\Debug\Organizer.exe
+S:\!ФИ\2 курс\3 семестр\программирование на C#\лабы\Lab8\Organizer\obj\Debug\Organizer.pdb
